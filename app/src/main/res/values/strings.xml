@@ -3,4 +3,6 @@
     <string name="title_artist_list">Worldwide Artists</string>
     <string name="title_artist_detail">Artist Detail</string>
     <string name="artist_n_wikipedia"><![CDATA[<Artist>\n<Wikipedia>]]></string>
+    <string name="ariana">1. Santa Tell Me (2013)\n2. Break Free (2014)\n3. One Last Time (2014)\n4. Problem (2014)\n5. Into You (2016)\n6. Side to Side (2016)\n7. No Tears Left to Cry (2018)\n8. Thank U, Next (2019)\n9. 7 Rings (2019)\n10.Ghostin (2019)</string>
+    <string name="ariana2">ariana</string>
 </resources>

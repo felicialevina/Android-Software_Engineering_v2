@@ -64,9 +64,10 @@ public class ArtistDetailFragment extends Fragment {
 
         // Show the dummy content as text in a TextView.
         if (mItem != null) {
-            ((TextView) rootView.findViewById(R.id.artist_detail)).setText(mItem.details);
+            if (mItem.id.equals("1")){
+                rootView = inflater.inflate(R.layout.ariana,container,false);
+            }
         }
-
         return rootView;
     }
 }
