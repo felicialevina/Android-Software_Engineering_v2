@@ -11,13 +11,13 @@
         android:id="@+id/imageView"
         android:layout_width="367dp"
         android:layout_height="244dp"
-        android:contentDescription="@string/ariana2"
+        android:contentDescription="@string/blackpink2"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.082"
-        app:srcCompat="@drawable/ariana" />
+        app:srcCompat="@drawable/blackpink" />
 
     <ScrollView
         android:layout_width="match_parent"
@@ -43,7 +43,7 @@
                 android:layout_gravity="center"
                 android:layout_marginLeft="15dp"
                 android:layout_marginRight="15dp"
-                android:text="@string/ariana3"
+                android:text="@string/blackpink3"
                 android:textAlignment="center"
                 android:textSize="24sp" />
 
@@ -55,7 +55,7 @@
                 android:layout_marginBottom="0dp"
                 android:gravity="center"
                 android:padding="20dp"
-                android:text="@string/ariana"
+                android:text="@string/blackpink"
                 android:textSize="23sp" />
         </LinearLayout>
     </ScrollView>

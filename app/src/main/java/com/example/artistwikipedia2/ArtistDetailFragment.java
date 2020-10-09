@@ -67,6 +67,12 @@ public class ArtistDetailFragment extends Fragment {
             if (mItem.id.equals("1")){
                 rootView = inflater.inflate(R.layout.ariana,container,false);
             }
+            if (mItem.id.equals("2")){
+                rootView = inflater.inflate(R.layout.blackpink,container,false);
+            }
+            if (mItem.id.equals("3")){
+                rootView = inflater.inflate(R.layout.bts,container,false);
+            }
         }
         return rootView;
     }

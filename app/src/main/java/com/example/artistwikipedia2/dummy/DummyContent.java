@@ -28,6 +28,9 @@ public class DummyContent {
     static {
         // Add some sample items.
         addItem(new DummyItem("1","Ariana"));
+        addItem(new DummyItem("2","Blackpink"));
+        addItem(new DummyItem("3","BTS"));
+
     }
 
     private static void addItem(DummyItem item) {
