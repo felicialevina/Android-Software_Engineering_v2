@@ -11,13 +11,13 @@
         android:id="@+id/imageView"
         android:layout_width="367dp"
         android:layout_height="227dp"
-        android:contentDescription="@string/bts2"
+        android:contentDescription="@string/coldplay2"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.078"
-        app:srcCompat="@drawable/bts" />
+        app:srcCompat="@drawable/coldplay" />
 
     <TextView
         android:id="@+id/textView2"
@@ -25,7 +25,7 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:padding="8dp"
-        android:text="@string/bts3"
+        android:text="@string/coldplay3"
         android:textAlignment="center"
         android:textSize="22sp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -42,7 +42,7 @@
         android:layout_gravity="center"
         android:gravity="center"
         android:padding="15dp"
-        android:text="@string/bts"
+        android:text="@string/coldplay"
         android:textSize="20sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

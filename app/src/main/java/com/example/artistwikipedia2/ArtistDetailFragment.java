@@ -73,6 +73,21 @@ public class ArtistDetailFragment extends Fragment {
             if (mItem.id.equals("3")){
                 rootView = inflater.inflate(R.layout.bts,container,false);
             }
+            if (mItem.id.equals("4")){
+                rootView = inflater.inflate(R.layout.coldplay,container,false);
+            }
+            if (mItem.id.equals("5")){
+                rootView = inflater.inflate(R.layout.halsey,container,false);
+            }
+            if (mItem.id.equals("6")){
+                rootView = inflater.inflate(R.layout.maroon5,container,false);
+            }
+            if (mItem.id.equals("7")){
+                rootView = inflater.inflate(R.layout.onedirection,container,false);
+            }
+            if (mItem.id.equals("8")){
+                rootView = inflater.inflate(R.layout.sf9,container,false);
+            }
         }
         return rootView;
     }

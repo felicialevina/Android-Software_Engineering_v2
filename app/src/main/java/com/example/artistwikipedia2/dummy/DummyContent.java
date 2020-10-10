@@ -30,7 +30,11 @@ public class DummyContent {
         addItem(new DummyItem("1","Ariana"));
         addItem(new DummyItem("2","Blackpink"));
         addItem(new DummyItem("3","BTS"));
-
+        addItem(new DummyItem("4","Coldplay"));
+        addItem(new DummyItem("5","Halsey"));
+        addItem(new DummyItem("6","Maroon 5"));
+        addItem(new DummyItem("7","One Direction"));
+        addItem(new DummyItem("8","SF9"));
     }
 
     private static void addItem(DummyItem item) {
