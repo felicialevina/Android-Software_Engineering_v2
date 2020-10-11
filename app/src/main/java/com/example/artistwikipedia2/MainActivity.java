@@ -25,6 +25,7 @@ public class MainActivity extends AppCompatActivity {
             public void run() {
                 finish();
                 startActivity(new Intent(MainActivity.this, ArtistListActivity.class));
+                audio.stop();
             }
         };
         Timer opening = new Timer();
